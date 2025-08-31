@@ -1,4 +1,4 @@
-# The Photon Trinity – 概要
+# The Photon Trinity – 概要[本文](the_photon_trinity.md)
 
 ## 全体像
 この文書は「宇宙は音と数で成り立っている」という直感から出発し、  
